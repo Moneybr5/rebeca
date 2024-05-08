@@ -1,1 +1,40 @@
-header{background-color:rgb(145, 173, 216);}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.cabeçcalho
+{
+    background-color: rgb(82, 187, 187);
+    color: rgb(6, 6, 118);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.logo-colégio
+{
+    width: 20%;
+    justify-content: center;
+}
+.nomedaescola
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.lista
+{
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.body
+{
+    background-image: linear-gradient(#9698a5,#FFFF);
+    color: black;
+    justify-content: center
+    padding: 24px 0; */
+}
